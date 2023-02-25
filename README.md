@@ -5,6 +5,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Supercharge ⚡️ your DynamoDB  single-table design pattern with TypeDORM](https://medium.com/nextfaze/supercharge-%EF%B8%8F-your-dynamodb-single-table-design-pattern-with-typedorm-39168d0d2e29?source=rss-d9cf8ff00846------2)
+- [Deploying Serverless API with Nestjs and AWS CDK](https://medium.com/nextfaze/deploying-serverless-api-with-nestjs-and-aws-cdk-3d41063543e0?source=rss-d9cf8ff00846------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
