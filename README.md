@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rushi Patel</h1>
-<h3 align="center">A passionate fullstack developer from Australia</h3>
+<h3 align="center">A passionate full-stack developer from Australia</h3>
 
 <p align="center" >&nbsp;<img src="https://user-images.githubusercontent.com/22066605/221339423-307c5b6b-8d64-4ed5-b620-4b4b9a10b8d5.gif" alt="whimzylive" /></p>
 
