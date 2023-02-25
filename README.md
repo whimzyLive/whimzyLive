@@ -3,6 +3,10 @@
 
 <p align="center" >&nbsp;<img src="https://user-images.githubusercontent.com/22066605/221339423-307c5b6b-8d64-4ed5-b620-4b4b9a10b8d5.gif" alt="whimzylive" /></p>
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/wimzylive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="wimzylive" height="30" width="40" /></a>
